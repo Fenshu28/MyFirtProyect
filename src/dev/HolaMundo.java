@@ -18,6 +18,7 @@ public class HolaMundo {
 			Suma += Calif[i];
 		}
 		
+		
 		System.out.println("El promedio de las calificaciones " + Arrays.toString(Calif) + " es: " + Suma/(MAXn));
 	}
 }
